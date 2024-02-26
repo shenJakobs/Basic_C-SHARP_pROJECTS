@@ -1,0 +1,7 @@
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\ConsoleAppAssingment1\ConsoleAppAssingment1\bin\Debug\ConsoleAppAssingment1.exe.config
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\ConsoleAppAssingment1\ConsoleAppAssingment1\bin\Debug\ConsoleAppAssingment1.exe
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\ConsoleAppAssingment1\ConsoleAppAssingment1\bin\Debug\ConsoleAppAssingment1.pdb
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\ConsoleAppAssingment1\ConsoleAppAssingment1\obj\Debug\ConsoleAppAssingment1.csproj.AssemblyReference.cache
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\ConsoleAppAssingment1\ConsoleAppAssingment1\obj\Debug\ConsoleAppAssingment1.csproj.CoreCompileInputs.cache
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\ConsoleAppAssingment1\ConsoleAppAssingment1\obj\Debug\ConsoleAppAssingment1.exe
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\ConsoleAppAssingment1\ConsoleAppAssingment1\obj\Debug\ConsoleAppAssingment1.pdb

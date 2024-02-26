@@ -1,0 +1,7 @@
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\MethodAssingment\MethodAssingment\bin\Debug\MethodAssingment.exe.config
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\MethodAssingment\MethodAssingment\bin\Debug\MethodAssingment.exe
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\MethodAssingment\MethodAssingment\bin\Debug\MethodAssingment.pdb
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\MethodAssingment\MethodAssingment\obj\Debug\MethodAssingment.csproj.AssemblyReference.cache
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\MethodAssingment\MethodAssingment\obj\Debug\MethodAssingment.csproj.CoreCompileInputs.cache
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\MethodAssingment\MethodAssingment\obj\Debug\MethodAssingment.exe
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\MethodAssingment\MethodAssingment\obj\Debug\MethodAssingment.pdb
