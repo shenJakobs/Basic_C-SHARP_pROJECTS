@@ -1,0 +1,7 @@
+C:\Users\Shen\Documents\GitHub\Basic_C-SHARP_pROJECTS\ShippingQuoteProgram\ShippingQuoteProgram\bin\Debug\ShippingQuoteProgram.exe.config
+C:\Users\Shen\Documents\GitHub\Basic_C-SHARP_pROJECTS\ShippingQuoteProgram\ShippingQuoteProgram\bin\Debug\ShippingQuoteProgram.exe
+C:\Users\Shen\Documents\GitHub\Basic_C-SHARP_pROJECTS\ShippingQuoteProgram\ShippingQuoteProgram\bin\Debug\ShippingQuoteProgram.pdb
+C:\Users\Shen\Documents\GitHub\Basic_C-SHARP_pROJECTS\ShippingQuoteProgram\ShippingQuoteProgram\obj\Debug\ShippingQuoteProgram.csproj.AssemblyReference.cache
+C:\Users\Shen\Documents\GitHub\Basic_C-SHARP_pROJECTS\ShippingQuoteProgram\ShippingQuoteProgram\obj\Debug\ShippingQuoteProgram.csproj.CoreCompileInputs.cache
+C:\Users\Shen\Documents\GitHub\Basic_C-SHARP_pROJECTS\ShippingQuoteProgram\ShippingQuoteProgram\obj\Debug\ShippingQuoteProgram.exe
+C:\Users\Shen\Documents\GitHub\Basic_C-SHARP_pROJECTS\ShippingQuoteProgram\ShippingQuoteProgram\obj\Debug\ShippingQuoteProgram.pdb
