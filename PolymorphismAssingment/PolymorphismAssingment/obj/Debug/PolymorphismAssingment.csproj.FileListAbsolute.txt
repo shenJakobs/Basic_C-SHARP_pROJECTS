@@ -1,0 +1,7 @@
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\PolymorphismAssingment\PolymorphismAssingment\obj\Debug\PolymorphismAssingment.csproj.AssemblyReference.cache
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\PolymorphismAssingment\PolymorphismAssingment\obj\Debug\PolymorphismAssingment.csproj.CoreCompileInputs.cache
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\PolymorphismAssingment\PolymorphismAssingment\bin\Debug\PolymorphismAssingment.exe.config
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\PolymorphismAssingment\PolymorphismAssingment\bin\Debug\PolymorphismAssingment.exe
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\PolymorphismAssingment\PolymorphismAssingment\bin\Debug\PolymorphismAssingment.pdb
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\PolymorphismAssingment\PolymorphismAssingment\obj\Debug\PolymorphismAssingment.exe
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\PolymorphismAssingment\PolymorphismAssingment\obj\Debug\PolymorphismAssingment.pdb
