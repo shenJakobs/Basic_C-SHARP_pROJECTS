@@ -20,6 +20,12 @@ namespace CarInsurance.Controllers
             return View(db.Tables.ToList());
         }
 
+        public ActionResult Admin()
+        {
+            return View(db.Tables.ToList());
+        }
+
+
         // GET: Insuree/Details/5
         public ActionResult Details(int? id)
         {
@@ -89,6 +95,8 @@ namespace CarInsurance.Controllers
             return View(table);
         }
 
+
+
         // GET: Insuree/Delete/5
         public ActionResult Delete(int? id)
         {
@@ -123,5 +131,66 @@ namespace CarInsurance.Controllers
             }
             base.Dispose(disposing);
         }
+
+        public static void Main(string[] args)
+        {
+            // Base monthly quote
+            double monthlyTotal = 50;
+
+            // Age of the user
+            int age = 22; // Example age, you can change this according to user input
+
+            // Car details
+            int carYear = 2010; // Example car year, you can change this according to user input
+            string carMake = "Porsche"; // Example car make, you can change this according to user input
+            string carModel = "911 Carrera"; // Example car model, you can change this according to user input
+
+            // Number of speeding tickets
+            int speedingTickets = 2; // Example number of speeding tickets, you can change this according to user input
+
+            // DUI flag
+            bool hasDUI = false; // Example, you can change this according to user input
+
+            // Full coverage flag
+            bool fullCoverage = true; // Example, you can change this according to user input
+
+            // Adjustments based on age
+            if (age <= 18)
+                monthlyTotal += 100;
+            else if (age >= 19 && age <= 25)
+                monthlyTotal += 50;
+            else
+                monthlyTotal += 25;
+
+            // Adjustments based on car's year
+            if (carYear < 2000)
+                monthlyTotal += 25;
+            else if (carYear > 2015)
+                monthlyTotal += 25;
+
+            // Adjustments based on car's make
+            if (carMake == "Porsche")
+            {
+                monthlyTotal += 25;
+                if (carModel == "911 Carrera")
+                    monthlyTotal += 25;
+            }
+
+            // Adjustments based on speeding tickets
+            monthlyTotal += speedingTickets * 10;
+
+            // Adjustments based on DUI
+            if (hasDUI)
+                monthlyTotal *= 1.25;
+
+            // Adjustments based on full coverage
+            if (fullCoverage)
+                monthlyTotal *= 1.5;
+
+            Console.WriteLine("Your monthly insurance quote is: $" + monthlyTotal);
+        }
+
+
     }
+
 }
