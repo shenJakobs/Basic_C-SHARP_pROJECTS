@@ -1,0 +1,5 @@
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\StudentFinalAssingment\StudentFinalAssingment\obj\Debug\net5.0\StudentFinalAssingment.csproj.AssemblyReference.cache
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\StudentFinalAssingment\StudentFinalAssingment\obj\Debug\net5.0\StudentFinalAssingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\StudentFinalAssingment\StudentFinalAssingment\obj\Debug\net5.0\StudentFinalAssingment.AssemblyInfoInputs.cache
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\StudentFinalAssingment\StudentFinalAssingment\obj\Debug\net5.0\StudentFinalAssingment.AssemblyInfo.cs
+C:\Users\Shen_\OneDrive\Documents\GitHub\Basic_C-SHARP_pROJECTS\StudentFinalAssingment\StudentFinalAssingment\obj\Debug\net5.0\StudentFinalAssingment.csproj.CoreCompileInputs.cache
